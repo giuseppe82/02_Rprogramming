@@ -1,0 +1,13 @@
+sdsddsfa
+ls
+exit
+exit()
+a <- c(33, 44, 92, 58)
+length(a)
+ls()
+install.packages('cobs') ; library(cobs)
+help(cobs)
+getwd()
+dir()
+clear()
+getwd()
